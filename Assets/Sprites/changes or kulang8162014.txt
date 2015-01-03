@@ -1,0 +1,8 @@
+Game concerns.
+[x] Change toss and shake to double tap and triple tap the robbers.
+[x] Change instruction graphics to double and triple tap.
+[x] Get new robbers sprites with cross hair on them for arcade mode
+[x] Get new robber sprites with outlines red and blue for powerup on arcade mode.
+
+
+Shared from Google Keep

@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Helpers\OptionsUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\robbers\RobberWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUDS\TimeAttackHud.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\ButtonNextImage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\TimeWaiting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\ButtonNext.cs" Line="10" Column="40" />
+      <File FileName="Assets\Scripts\RobberSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\robbers\RobberDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUDS\StoryModeHud.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUDS\HighScoreHud.cs" Line="16" Column="75" />
+      <File FileName="Assets\Scripts\HUDS\ArcadeModeHud.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\PauseButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\CoinSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\CoinAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HUDS\MainMenuHud.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\powerups\LifeButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\powerups\TargetButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\powerups\FreezeButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\robbers\RobberHealth.cs" Line="46" Column="32" />
+      <File FileName="Assets\Scripts\SoundEffects.cs" Line="82" Column="31" />
+      <File FileName="Assets\Scripts\Helpers\OptionsUI.cs" Line="18" Column="102" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
