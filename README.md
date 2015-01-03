@@ -7,6 +7,9 @@ Technologies
 ==========
 
 Unity3D
+
 MonoDevelop
+
 C#
+
 Photoshop
